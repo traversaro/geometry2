@@ -32,8 +32,6 @@
 #ifndef TF2_GEOMETRY_MSGS__TF2_GEOMETRY_MSGS_H_
 #define TF2_GEOMETRY_MSGS__TF2_GEOMETRY_MSGS_H_
 
-#warning This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead
-
 #include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
 
 #endif  // TF2_GEOMETRY_MSGS__TF2_GEOMETRY_MSGS_H_
